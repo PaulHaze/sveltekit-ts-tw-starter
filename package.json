@@ -37,9 +37,5 @@
 		"vite": "^4.4.8",
 		"vitest": "^0.34.1"
 	},
-	"type": "module",
-	"dependencies": {
-		"node-sass": "^9.0.0",
-		"sass": "^1.64.2"
-	}
+	"type": "module"
 }
