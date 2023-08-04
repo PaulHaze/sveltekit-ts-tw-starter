@@ -1,7 +1,6 @@
 /** @type {import('tailwindcss').Config}*/
 const config = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
-
   theme: {
     fontSize: {
       xs: '0.75rem',

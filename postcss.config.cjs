@@ -1,6 +1,10 @@
 const tailwindcss = require('tailwindcss');
 const autoprefixer = require('autoprefixer');
 
+// import tailwindcss from 'tailwindcss';
+// import tailwindConfig from './tailwind.config.js';
+// import autoprefixer from 'autoprefixer';
+
 const config = {
   plugins: [
     //Some plugins, like tailwindcss/nesting, need to run before Tailwind,
